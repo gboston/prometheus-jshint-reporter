@@ -1,0 +1,23 @@
+{
+  "name": "prometheus-jshint-reporter",
+  "version": "1.0.0",
+  "description": "export jshint results to prometheus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gboston/prometheus-jshint-reporter.git"
+  },
+  "keywords": [
+    "prometheus",
+    "jshint"
+  ],
+  "author": "Glenn Bostoen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gboston/prometheus-jshint-reporter/issues"
+  },
+  "homepage": "https://github.com/gboston/prometheus-jshint-reporter#readme"
+}
